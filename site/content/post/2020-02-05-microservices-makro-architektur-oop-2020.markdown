@@ -11,7 +11,7 @@ categories:
 - Vorträge
 ---
 
-[one_third]
+
 
 
 
@@ -22,22 +22,22 @@ categories:
 
 
 
-[/one_third]
 
 
 
 
-[two_thirds_last]
 
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-microphone"] [Microservices & Makro-Architektur. Drei zentrale Entwurfsfragen](https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-14-4/title/microservices-makro-architektur-drei-zentrale-entwurfsfragen.html)  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Sprecher: [Stefan Zörner](https://www.embarc.de/stefan-zoerner/)  
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] [OOP-Konferenz 2020](https://www.oop-konferenz.de)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] 05. März 2020, 17:00 - 18:00 Uhr  
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] [ICM – Internationales Congress Center München](http://www.icm-muenchen.de/)  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] [@oop_conference](https://twitter.com/oop_conference) #OOPmuc
+
+
+{{< fontawesome icon="microphone" >}} [Microservices & Makro-Architektur. Drei zentrale Entwurfsfragen](https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-14-4/title/microservices-makro-architektur-drei-zentrale-entwurfsfragen.html)  
+{{< fontawesome icon="user" >}} Sprecher: [Stefan Zörner](https://www.embarc.de/stefan-zoerner/)  
+{{< fontawesome icon="comments" >}} [OOP-Konferenz 2020](https://www.oop-konferenz.de)  
+{{< fontawesome icon="calendar" >}} 05. März 2020, 17:00 - 18:00 Uhr  
+{{< fontawesome icon="map-marker-alt" >}} [ICM – Internationales Congress Center München](http://www.icm-muenchen.de/)  
+{{< fontawesome icon="twitter" style="fab" >}} [@oop_conference](https://twitter.com/oop_conference) #OOPmuc
 
 
 
@@ -48,12 +48,12 @@ categories:
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-download"][Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2020/02/MicroMakro_szoerner_oop_2020_deploy.pdf)
+{{< fontawesome icon="arrow-down" >}}[Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2020/02/MicroMakro_szoerner_oop_2020_deploy.pdf)
 
 
 
 
-[/two_thirds_last]
+
 
 
 

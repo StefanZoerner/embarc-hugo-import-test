@@ -14,7 +14,7 @@ tags:
 - Architekturüberblic­ke
 ---
 
-[one_third]
+
 
 
 
@@ -25,22 +25,22 @@ tags:
 
 
 
-[/one_third]
 
 
 
 
-[two_thirds_last]
 
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-microphone"] [Architektur auf dem Bierdeckel – Eure Lösung in kurz und knackig](https://www.ittage.informatik-aktuell.de/programm/2019/architektur-auf-dem-bierdeckel-eure-loesung-in-kurz-und-knackig/)  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Sprecher: [Stefan Zörner](https://www.embarc.de/stefan-zoerner/)  
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] [IT-Tage 2019](https://www.ittage.informatik-aktuell.de)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] 11. Dezember 2019, 09:00 - 09:45 Uhr  
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] Kongresshaus Kap Europa, Frankfurt am Main, [Anfahrt](https://www.ittage.informatik-aktuell.de/konferenz/veranstaltungsort/)  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] [@InformatikAktue](https://twitter.com/InformatikAktue ) #ittage
+
+
+{{< fontawesome icon="microphone" >}} [Architektur auf dem Bierdeckel – Eure Lösung in kurz und knackig](https://www.ittage.informatik-aktuell.de/programm/2019/architektur-auf-dem-bierdeckel-eure-loesung-in-kurz-und-knackig/)  
+{{< fontawesome icon="user" >}} Sprecher: [Stefan Zörner](https://www.embarc.de/stefan-zoerner/)  
+{{< fontawesome icon="comments" >}} [IT-Tage 2019](https://www.ittage.informatik-aktuell.de)  
+{{< fontawesome icon="calendar" >}} 11. Dezember 2019, 09:00 - 09:45 Uhr  
+{{< fontawesome icon="map-marker-alt" >}} Kongresshaus Kap Europa, Frankfurt am Main, [Anfahrt](https://www.ittage.informatik-aktuell.de/konferenz/veranstaltungsort/)  
+{{< fontawesome icon="twitter" style="fab" >}} [@InformatikAktue](https://twitter.com/InformatikAktue ) #ittage
 
 
 
@@ -51,12 +51,12 @@ tags:
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-download"][Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2019/12/Architektur-Bierdeckel_szoerner_ITTage2019_deploy.pdf)
+{{< fontawesome icon="arrow-down" >}}[Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2019/12/Architektur-Bierdeckel_szoerner_ITTage2019_deploy.pdf)
 
 
 
 
-[/two_thirds_last]
+
 
 
 

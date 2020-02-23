@@ -21,22 +21,22 @@ tags:
 
 
 
-[one_third centered_text="true"]  
+  
 ![Logo W-Jax](https://www.embarc.de/wp-content/uploads/2018/06/WJAX_Logo_frei-200.png)
   
-[/one_third]
 
 
 
 
-[two_thirds_last]  
+
+  
 [divider line_type="No Line" custom_height="10"]  
-[icon color="Accent-Color" size="tiny" image="icon-microphone"] ["Mit welchem Framework soll ich meine Single-Page-App bauen?“](https://jax.de/web-development-javascript/mit-welchem-framework-soll-ich-meine-single-page-app-bauen/)  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Sprecher: [Nils Hartmann](https://nilshartmann.net/) und [Oliver Zeigermann](https://www.embarc.de/oliver-zeigermann)  
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] Vortrag auf der [W-JAX 2019](https://jax.de/)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] Mittwoch, 06. November 2019, 10:00 - 11:00 Uhr  
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] The Westin Grand in München ([Location](https://jax.de/location/))  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] [@jaxcon](https://twitter.com/jaxcon)
+{{< fontawesome icon="microphone" >}} ["Mit welchem Framework soll ich meine Single-Page-App bauen?“](https://jax.de/web-development-javascript/mit-welchem-framework-soll-ich-meine-single-page-app-bauen/)  
+{{< fontawesome icon="user" >}} Sprecher: [Nils Hartmann](https://nilshartmann.net/) und [Oliver Zeigermann](https://www.embarc.de/oliver-zeigermann)  
+{{< fontawesome icon="comments" >}} Vortrag auf der [W-JAX 2019](https://jax.de/)  
+{{< fontawesome icon="calendar" >}} Mittwoch, 06. November 2019, 10:00 - 11:00 Uhr  
+{{< fontawesome icon="map-marker-alt" >}} The Westin Grand in München ([Location](https://jax.de/location/))  
+{{< fontawesome icon="twitter" style="fab" >}} [@jaxcon](https://twitter.com/jaxcon)
 
 
 
@@ -46,12 +46,12 @@ tags:
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-download"] [Foliendownload](https://djcordhose.github.io/spa-workshop/2019_frameworks_wjax.html#/) (Github)
+{{< fontawesome icon="arrow-down" >}} [Foliendownload](https://djcordhose.github.io/spa-workshop/2019_frameworks_wjax.html#/) (Github)
 
 
 
 
-[/two_thirds_last]
+
 
 
 
@@ -89,7 +89,7 @@ Angular, React, Vue, Web Components? Ist es nicht egal, mit welchem Framework ma
 
 
 
-[one_third]
+
 
 
 
@@ -130,12 +130,12 @@ Angular, React, Vue, Web Components? Ist es nicht egal, mit welchem Framework ma
 
 
 
-[/one_third]
 
 
 
 
-[two_thirds_last]
+
+
 
 
 
@@ -157,13 +157,13 @@ weitere Infos: [reactbuch.de](https://reactbuch.de/)
 
 
 
-[/two_thirds_last]
 
 
 
 
 
-[one_third]
+
+
 
 
 
@@ -199,12 +199,12 @@ weitere Infos: [reactbuch.de](https://reactbuch.de/)
 
 
 
-[/one_third]
 
 
 
 
-[two_thirds_last]
+
+
 
 
 
@@ -225,7 +225,7 @@ Download Architektur-Spicker Nr. 9: [Moderne Frontend-Architektur](https://www.e
 
 
 
-[/two_thirds_last]
+
 
 
 

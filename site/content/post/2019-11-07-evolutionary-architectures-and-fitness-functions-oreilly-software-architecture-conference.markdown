@@ -16,16 +16,16 @@ tags:
 ---
 
 [![OReilly Media Logo](https://www.embarc.de/wp-content/uploads/2019/10/OReilly_Media_logo_trs-300x240.png)
-](https://conferences.oreilly.com/software-architecture/sa-eu)[icon color="Accent-Color" size="tiny" image="icon-microphone"] [Evolutionary architectures and fitness functions - a pragmatic approach!](https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/78740)  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Speaker: [René Weiss](https://www.embarc.de/rene-weiss/)
+](https://conferences.oreilly.com/software-architecture/sa-eu){{< fontawesome icon="microphone" >}} [Evolutionary architectures and fitness functions - a pragmatic approach!](https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/78740)  
+{{< fontawesome icon="user" >}} Speaker: [René Weiss](https://www.embarc.de/rene-weiss/)
 
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-eu)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] Thursday, 7 November 2019, 16:50–17:35  
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] CityCube Berlin, 14055 Berlin  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] [@OReillyMedia](https://twitter.com/oreillymedia)  #OReillySACon
+{{< fontawesome icon="comments" >}} [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-eu)  
+{{< fontawesome icon="calendar" >}} Thursday, 7 November 2019, 16:50–17:35  
+{{< fontawesome icon="map-marker-alt" >}} CityCube Berlin, 14055 Berlin  
+{{< fontawesome icon="twitter" style="fab" >}} [@OReillyMedia](https://twitter.com/oreillymedia)  #OReillySACon
 
 
 
@@ -35,8 +35,8 @@ tags:
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-github"]Sourcecode & demo apps on [Github](https://github.com/embarced/SoftwareArchitectureConference2019)  
-[icon color="Accent-Color" size="tiny" image="icon-download"] [slide download](https://www.embarc.de/wp-content/uploads/2019/11/RWeiss_OReilly_201911_PragmaticFitnessFunctions_final-optimiert.pdf) (PDF)
+{{< fontawesome icon="github-alt" style="fab" >}}Sourcecode & demo apps on [Github](https://github.com/embarced/SoftwareArchitectureConference2019)  
+{{< fontawesome icon="arrow-down" >}} [slide download](https://www.embarc.de/wp-content/uploads/2019/11/RWeiss_OReilly_201911_PragmaticFitnessFunctions_final-optimiert.pdf) (PDF)
 
 
 

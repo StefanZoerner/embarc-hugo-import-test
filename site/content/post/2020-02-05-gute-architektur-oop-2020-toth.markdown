@@ -16,7 +16,7 @@ categories:
 
 
 
-[one_third]
+
 
 
 
@@ -27,22 +27,22 @@ categories:
 
 
 
-[/one_third]
 
 
 
 
-[two_thirds_last]
 
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-microphone"] ["Warum gute Architektur nichts mit Code-Qualität zu tun hat. “](https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-24-5/title/warum-gute-architektur-nichts-mit-code-qualitaet-zu-tun-hat.html)  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Sprecher: [Stefan Toth](https://www.embarc.de/stefan-toth/)  
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] Vortrag auf der [OOP 2020](https://www.oop-konferenz.de/oop2020.html)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] Mittwoch 05. Februar 2020, 17:00 - 18:00 Uhr  
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] [ICM – Internationales Congress Center München](https://www.oop-konferenz.de/oop2020/service/anreise-hotel/location.html)  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] #OOPmuc [@oop_conference](https://twitter.com/oop_conference)
+
+
+{{< fontawesome icon="microphone" >}} ["Warum gute Architektur nichts mit Code-Qualität zu tun hat. “](https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-24-5/title/warum-gute-architektur-nichts-mit-code-qualitaet-zu-tun-hat.html)  
+{{< fontawesome icon="user" >}} Sprecher: [Stefan Toth](https://www.embarc.de/stefan-toth/)  
+{{< fontawesome icon="comments" >}} Vortrag auf der [OOP 2020](https://www.oop-konferenz.de/oop2020.html)  
+{{< fontawesome icon="calendar" >}} Mittwoch 05. Februar 2020, 17:00 - 18:00 Uhr  
+{{< fontawesome icon="map-marker-alt" >}} [ICM – Internationales Congress Center München](https://www.oop-konferenz.de/oop2020/service/anreise-hotel/location.html)  
+{{< fontawesome icon="twitter" style="fab" >}} #OOPmuc [@oop_conference](https://twitter.com/oop_conference)
 
 
 
@@ -53,12 +53,12 @@ categories:
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-download"][Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2020/02/OOP_2020_Toth_deploy2.pdf)
+{{< fontawesome icon="arrow-down" >}}[Foliendownload (PDF)](https://www.embarc.de/wp-content/uploads/2020/02/OOP_2020_Toth_deploy2.pdf)
 
 
 
 
-[/two_thirds_last]
+
 
 
 

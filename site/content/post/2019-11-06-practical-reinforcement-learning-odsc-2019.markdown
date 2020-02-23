@@ -30,33 +30,33 @@ In a Half Day Hands-on Training at ODSC West in San Francisco in Autumn 2019 Oli
 
 
 
-[one_third]
+
 
 
 
 
 ![](https://www.embarc.de/wp-content/uploads/2019/08/ODSC_logo.png)
-[/one_third]
 
 
 
 
-[two_thirds_last]
 
 
 
 
-[icon color="Accent-Color" size="tiny" image="icon-microphone"] "Practical Reinforcement Learning with TensorFlow 2.0 & TF-Agents"  
-[icon color="Accent-Color" size="tiny" image="icon-user"] Author/Speaker: [Oliver Zeigermann](https://www.embarc.de/oliver-zeigermann) and [Christian Hidber](https://www.bsquare.ch/index.php/about/)  
-[icon color="Accent-Color" size="tiny" image="icon-comments-alt"] [ODSC West, San Francisco](https://odsc.com/california/)  
-[icon color="Accent-Color" size="tiny" image="icon-calendar"] October 29th - November 1th, 2019   
-[icon color="Accent-Color" size="tiny" image="icon-location-arrow"] Hyatt Regency, South San Francisco, CA 940105 ([Venue](https://odsc.com/california/west-venue-2019/))  
-[icon color="Accent-Color" size="tiny" image="fa-twitter"] [@odsc](https://twitter.com/ODSC)
+
+
+{{< fontawesome icon="microphone" >}} "Practical Reinforcement Learning with TensorFlow 2.0 & TF-Agents"  
+{{< fontawesome icon="user" >}} Author/Speaker: [Oliver Zeigermann](https://www.embarc.de/oliver-zeigermann) and [Christian Hidber](https://www.bsquare.ch/index.php/about/)  
+{{< fontawesome icon="comments" >}} [ODSC West, San Francisco](https://odsc.com/california/)  
+{{< fontawesome icon="calendar" >}} October 29th - November 1th, 2019   
+{{< fontawesome icon="map-marker-alt" >}} Hyatt Regency, South San Francisco, CA 940105 ([Venue](https://odsc.com/california/west-venue-2019/))  
+{{< fontawesome icon="twitter" style="fab" >}} [@odsc](https://twitter.com/ODSC)
 
 
 
 
-[/two_thirds_last]
+
 
 
 
