@@ -30,7 +30,7 @@ tags:
 
 
 
-[divider line_type="Small Line" custom_height=""]
+{{< divider >}}
 
 
 

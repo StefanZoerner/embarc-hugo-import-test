@@ -46,7 +46,7 @@ tags:
 
 
 
-[divider line_type="Small Line" custom_height=""]
+{{< divider >}}
 
 
 
@@ -85,7 +85,7 @@ Der Vortrag ist gespickt mit Erfahrungswissen, Rezepten und Beispielen. Als Schm
 
 
 
-[button open_new_tab="true" color="Extra-Color-1" size="medium" url="https://www.ittage.informatik-aktuell.de" text="IT-Tage 2019"]
+{{< button text="IT-Tage 2019" url="https://www.ittage.informatik-aktuell.de" >}}
 
 
 

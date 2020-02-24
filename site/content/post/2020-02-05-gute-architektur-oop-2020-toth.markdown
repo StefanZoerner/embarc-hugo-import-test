@@ -48,7 +48,7 @@ categories:
 
 
 
-[divider line_type="Small Line" custom_height=""]
+{{< divider >}}
 
 
 
@@ -90,7 +90,7 @@ Diese Session richtet sich an Entwickler und Architekten, die mit größeren Sys
 
 
 
-[button open_new_tab="true" color="Extra-Color-1" size="medium" url="https://www.oop-konferenz.de/oop2020.html" text="OOP-Konferenz 2020"]
+{{< button text="OOP-Konferenz 2020" url="https://www.oop-konferenz.de/oop2020.html" >}}
 
 
 

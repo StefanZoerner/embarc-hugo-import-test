@@ -43,7 +43,7 @@ categories:
 
 
 
-[divider line_type="Small Line" custom_height=""]
+{{< divider >}}
 
 
 
@@ -82,7 +82,7 @@ In diesem Vortrag stelle ich die drei Themen entlang eines durchgängigen Beispi
 
 
 
-[button open_new_tab="true" color="Extra-Color-1" size="medium" url="https://www.oop-konferenz.de/oop2020.html" text="OOP-Konferenz 2020"]
+{{< button text="OOP-Konferenz 2020" url="https://www.oop-konferenz.de/oop2020.html" >}}
 
 
 
